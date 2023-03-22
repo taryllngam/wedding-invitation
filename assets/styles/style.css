@@ -24,7 +24,7 @@ footer a {
 .jane-john a {
   padding-left: 43%;
   margin-top: 20%;
- }
+}
 
 .sidenav .bottom-bar {
   display: flex;
@@ -59,7 +59,7 @@ footer a {
 }
 
 .header {
-  background-image:  url("/assets/images/jane2.jpg");
+  background-image: url("/assets/images/jane2.jpg");
   height: 30vh;
   background-size: cover;
   color: white;
